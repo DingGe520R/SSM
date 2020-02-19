@@ -1,0 +1,13 @@
+com\itheima\ssm\dao\IRoleDao.class
+com\itheima\ssm\dao\Rentangle.class
+com\itheima\ssm\dao\IPermissionDao.class
+com\itheima\ssm\dao\ITravellerDao.class
+com\itheima\ssm\dao\IUserDao.class
+com\itheima\ssm\dao\Circle.class
+com\itheima\ssm\dao\mp.class
+com\itheima\ssm\dao\Triangle.class
+com\itheima\ssm\dao\IOrdersDao.class
+com\itheima\ssm\dao\Shape.class
+com\itheima\ssm\dao\IMemberDao.class
+com\itheima\ssm\dao\IProductDao.class
+com\itheima\ssm\dao\ISysLogDao.class
